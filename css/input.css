@@ -1,0 +1,18 @@
+::-webkit-input-placeholder {
+    color: gray;
+}
+:-ms-input-placeholder {
+    color: gray;
+}
+::-ms-input-placeholder {
+    color: gray;
+}
+::placeholder {
+    color: gray;
+}
+.h {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImlucHV0LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUNJLFdBQVc7QUFDZjtBQUZBO0lBQ0ksV0FBVztBQUNmO0FBRkE7SUFDSSxXQUFXO0FBQ2Y7QUFGQTtJQUNJLFdBQVc7QUFDZjtBQUNBO0lBQ0ksb0JBQWE7SUFBYixvQkFBYTtJQUFiLGFBQWE7QUFDakIiLCJmaWxlIjoiaW5wdXQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiOjpwbGFjZWhvbGRlciB7XG4gICAgY29sb3I6IGdyYXk7XG59XG4uaCB7XG4gICAgZGlzcGxheTogZmxleDtcbn0iXX0= */
